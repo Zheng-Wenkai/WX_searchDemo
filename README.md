@@ -1,5 +1,23 @@
 # 微信小程序—快递查询Demo
 
-这是一个微信小程序的快递查询Demo，仅供初学者学习使用。
+这是一个微信小程序的快递查询Demo，仅供初学者学习使用。主要展示了一些常用的一些微信API和组件，如有错误或建议，欢迎指出。
 
-使用的API可从https://www.juhe.cn/docs/api/id/43申请并用申请所得API替换search.js中wx.request方法的URL地址。
+
+
+首页：
+
+
+
+登录（未加入登录验证，仅展示了全局变量的用法，用户可根据需求添加）：
+
+
+
+查询：
+
+
+
+数据接口申请地址：https://www.juhe.cn/docs/api/id/43
+
+
+
+seach.js中的wx.request所用URL需要用申请所得数据接口替换
