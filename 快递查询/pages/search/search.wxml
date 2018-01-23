@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="container">
+  <view>{{username}},欢迎进入快递查询系统</view>
+  <view>请选择快递公司：</view>
+  <picker class="input" bindchange="companyInput" value="{{index}}" range="{{com}}">
+     <view>{{com[index]}}</view>
+  </picker>
+  <input placeholder="请输入运单号"  class='input' bindinput='noInput' type='number'/>
+  <button type="primary"  bindtap="search"> 查询 </button>
+  <scroll-view scroll-y style="height: 200px;" >
+    <view wx:for="{{expressInfo.result.list}}">
+      【{{item.datetime}}】{{item.remark}}
+    </view>
+  </scroll-view>
+</view>

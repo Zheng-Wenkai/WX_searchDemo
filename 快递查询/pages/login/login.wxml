@@ -1,0 +1,5 @@
+<view class="container">
+  <input placeholder="请输入账户"  class='input' bindinput='getUsername' />
+  <input placeholder="请输入密码"  class='input' bindinput='getPassword' />
+  <button type="primary" bindtap='loginClick' > 登录 </button>
+</view>
