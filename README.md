@@ -6,15 +6,15 @@
 
 首页：
 
-![image](WX_searchDemo/imageToIntroduce/index.png)
+![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/index.png)
 
 登录（未加入登录验证，仅展示了全局变量的用法，用户可根据需求添加）：
 
-![image](WX_searchDemo/imageToIntroduce/login.png)
+![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/index.png)
 
 查询：
 
-![image](WX_searchDemo/imageToIntroduce/search.png)
+![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/index.png)
 
 数据接口申请地址：https://www.juhe.cn/docs/api/id/43
 
