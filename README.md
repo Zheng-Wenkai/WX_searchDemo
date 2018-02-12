@@ -10,11 +10,11 @@
 
 登录（未加入登录验证，仅展示了全局变量的用法，用户可根据需求添加）：
 
-![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/index.png)
+![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/login.png)
 
 查询：
 
-![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/index.png)
+![image](https://github.com/Zheng-Wenkai/WX_searchDemo/blob/master/imageToIntroduce/search.png)
 
 数据接口申请地址：https://www.juhe.cn/docs/api/id/43
 
